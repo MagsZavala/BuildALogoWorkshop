@@ -1,4 +1,4 @@
-// lib/shapes.test.js
+//logo shapes
 const { Circle, Triangle, Square } = require('./library/shapes.js');
 
 test('Circle renders correctly', () => {
