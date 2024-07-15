@@ -1,0 +1,18 @@
+{
+  "name": "BuildALogoWorkshop",
+  "version": "1.0.0",
+  "description": "Making a logo has never been so easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
+
