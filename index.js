@@ -29,7 +29,7 @@ const questions = [
         message: 'Enter the shape color (keyword or hexadecimal):',
     }
 ];
-
+//make logo
 async function run() {
     const answers = await prompt(questions);
 
