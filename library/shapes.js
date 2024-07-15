@@ -1,4 +1,4 @@
-// lib/shapes.js
+// color and sha
 class Shape {
     constructor() {
         this.color = '';
