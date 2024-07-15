@@ -1,4 +1,4 @@
-// test-inquirer.js
+// test-inquirer
 const inquirer = require('inquirer');
 
 inquirer.createPromptModule()([
